@@ -1,5 +1,6 @@
 <?php
 
-echo "Hello World!";
+echo "POGI!<br>";
+echo "KAMI!<br>";
 
 ?>
